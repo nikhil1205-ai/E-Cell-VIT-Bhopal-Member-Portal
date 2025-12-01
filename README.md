@@ -1,4 +1,3 @@
-# E-Cell-VIT-Bhopal-Member-Portal
 # deployment Url :- https://surl.li/gbqxdx
 
 
